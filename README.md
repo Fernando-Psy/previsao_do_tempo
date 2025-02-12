@@ -6,4 +6,4 @@ Esta é uma aplicação simples de previsão do tempo escrita em Python que util
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/previsao-tempo-python.git
+   git clone https://github.com/Fernando-Psy/previsao_do_tempo.git
