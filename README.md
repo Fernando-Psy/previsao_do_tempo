@@ -87,8 +87,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** e **p
 
 ## Contato
 Se tiver dúvidas ou sugestões, entre em contato:
-- **Nome**: [Fernando Cesar B. Junior]
-- **E-mail**: [fcesarjunior@lgmai.com]
+- **Nome**: (Fernando Cesar B. Junior)
+- **E-mail**: (fcesarjunior@gmail.com)
 - **GitHub**: [Fernando-Psy](https://github.com/Fernando-Psy)
 
  😊
